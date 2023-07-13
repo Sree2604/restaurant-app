@@ -1,0 +1,17 @@
+*{
+    align-content: center;
+    justify-content: center;
+    /* background-color: rgb(233, 233, 233); */
+}
+.photo{
+    height: 350px;
+    width: 500px;
+    image-orientation: flip;
+}
+
+#card1{
+    max-width: 500px;
+}
+#card2{
+    max-width: 500px;
+}

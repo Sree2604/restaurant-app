@@ -1,0 +1,16 @@
+*{
+    align-content: center;
+    justify-content: center;
+    /* background-color: rgb(233, 233, 233); */
+    
+}
+
+
+.jumbotron{
+    /* margin: 10px;
+    row-gap: 10px; */
+    text-align: center;
+    /* position: absolute; */
+    
+}
+ 
