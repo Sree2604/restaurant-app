@@ -19,10 +19,7 @@ function AddTask({onAdd,data,updateId}){
   const onSubmit = (e)=>{
       e.preventDefault()
       
-      if(!name){
-          alert('please add a task')
-          return
-      }
+
       onAdd({name,phNum,table,peopleCount,date})
       updateId(table)
       alert('Booked Successfully...')
