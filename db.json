@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Table 1",
       "class": "A",
-      "availablity": true
+      "availablity": false
     },
     {
       "id": 2,
@@ -31,5 +31,30 @@
       "availablity": true
     }
   ],
-  "bookings": []
+  "bookings": [
+    {
+      "name": "Sree",
+      "phNum": "54689473",
+      "table": "3",
+      "peopleCount": "2",
+      "date": "2023-07-16",
+      "id": 1
+    },
+    {
+      "name": "Sree",
+      "phNum": "54689473",
+      "table": "3",
+      "peopleCount": "2",
+      "date": "2023-07-22",
+      "id": 2
+    },
+    {
+      "name": "Sree",
+      "phNum": "54689473",
+      "table": "1",
+      "peopleCount": "2",
+      "date": "2023-07-13",
+      "id": 3
+    }
+  ]
 }

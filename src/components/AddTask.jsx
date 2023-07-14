@@ -31,7 +31,6 @@ function AddTask({onAdd,data,updateId}){
       setTable('')
       setDate('')
       setCapacity('')
-      window.location.reload();
    }
   function checkAvailability(availability, id) {
       if (availability === true) {
